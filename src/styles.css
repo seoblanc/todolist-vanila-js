@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+.title-wrap {
+  background-color: beige;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.text-item {
+  height: 100%;
+}
+#input {
+  outline: none;
+}
